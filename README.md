@@ -2,7 +2,7 @@
 
 Meu nome é Leticia Oliveira
 
-Sou aluna do componente curricular de Pensamento Computacional pela rede estadual educação do Paraná
+Sou aluna do componente curricular de Pensamento Computacional pela rede estadual de educação do Paraná
 
 Utilizo em aula a plataforma [Alura](https://www.alura.com.br)
 
