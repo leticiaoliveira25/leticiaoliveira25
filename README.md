@@ -10,4 +10,4 @@ Utilizo em aula a plataforma [Alura](https://www.alura.com.br)
 
 oliveira.leticia25@escola.pr.gov.br
 
-
+![](https://media1.tenor.com/m/LXpEnPxrh8EAAAAC/smirking-moana.gif)
